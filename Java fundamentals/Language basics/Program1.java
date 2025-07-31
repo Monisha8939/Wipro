@@ -1,4 +1,5 @@
-public class program 1{
+public class program1
+{
   public static void main(String args[])
   {
     if(args.length !=2){
