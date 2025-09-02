@@ -3,7 +3,7 @@ abstract class Compartment
     public abstract String notice();
 }
 class FirstClass extends Compartment 
-{
+{ 
     public String notice() 
    {
         return "First Class Compartment";
