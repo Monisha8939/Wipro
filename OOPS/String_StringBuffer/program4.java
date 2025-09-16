@@ -3,7 +3,7 @@ public class program4
   {
     public static void main(String[] args) 
     {
-        Scanner sc=new Scanner(System.in);
+        Scanner sc=new Scanner(System.in); 
         String str=sc.nextLine();
         int len = str.length();
         if (len % 2 == 0)
